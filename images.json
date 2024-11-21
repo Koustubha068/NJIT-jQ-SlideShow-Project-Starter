@@ -1,66 +1,66 @@
 { "images": [
         {
-            "imgPath": "img/places/img/superman_next_to_eiffel_tower.jpeg",
+            "imgPath": "img/superman_next_to_eiffel_tower.jpeg",
             "imgLocation": "Eiffel Tower",
             "description": "The Eiffel Tower stands as a towering, iconic symbol of strength, hope, and inspiration for the people of Paris and the world, much like Superman represents truth, justice, and hope. Both are universally recognized symbols of power and light.",
             "dateBuilt": "January 26, 1887"
         },
         {
-            "imgPath": "img/places/img/Iron_Man_sitting_on_GreatWallOfChina.jpeg",
+            "imgPath": "img/Iron_Man_sitting_on_GreatWallOfChina.jpeg",
             "imgLocation": "Great Wall Of China",
             "description": "Iron Man represents the Great Wall of China as a symbol of resilience and defense. Like the Wall, which was built to protect China from external threats, Iron Man's advanced technology and constant upgrades embody a commitment to safeguarding against evolving dangers with innovation and strength.",
             "dateBuilt": "3rd BCE - 17th BCE"
         },
         {
-            "imgPath": "img/places/img/wonderwomen_statueofliberty.jpeg",
+            "imgPath": "img/wonderwomen_statueofliberty.jpeg",
             "imgLocation": "Statue Of Libery",
             "description": "Wonder Woman represents the Statue of Liberty as a symbol of freedom, justice, and empowerment. Just as the Statue stands as a beacon of hope and liberty for the oppressed, Wonder Woman embodies the ideals of truth, equality, and fighting for the defenseless, making her the perfect hero to personify the Statues role as an icon of strength and protection for all people.",
             "dateBuilt": "1875-1886"
         },
         {
-            "imgPath": "img/places/img/Thor_Pyramids.jpeg",
+            "imgPath": "img/Thor_Pyramids.jpeg",
             "imgLocation": "The Pyramids",
             "description": "Thor represents the Pyramids of Giza as enduring symbols of strength, legacy, and the divine. Just as the pyramids were built as monumental structures to honor gods and kings, Thor, the Norse god of thunder, embodies immense power and protection, guarding against chaos while leaving a lasting legacy of heroism and myth that transcends time—much like the pyramids themselves stand as timeless testaments to ancient civilization and divine authority.",
             "dateBuilt": "2700BCE started"
         },
         {
-            "imgPath": "img/places/img/SpiderMan on top of SydneyOperaHouse.jpeg",
+            "imgPath": "img/SpiderMan on top of SydneyOperaHouse.jpeg",
             "imgLocation": "Sydney Opera House",
             "description": "Spider-Man represents the Sydney Opera House as a symbol of creativity, agility, and balance. Just as the Opera House is a masterpiece of architectural design with its dynamic curves and intricate structure, Spider-Man’s agility and acrobatic prowess allow him to navigate through the city’s skyline, balancing his responsibilities as a hero with his personal life, much like the Opera House balances artistic expression with cultural significance.",
             "dateBuilt": "1959-1973"
         },
         {
-            "imgPath": "img/places/img/Green Lantern at MountFuji.jpeg",
+            "imgPath": "img/Green Lantern at MountFuji.jpeg",
             "imgLocation": "Mount Fuji",
             "description": "Green Lantern represents Mount Fuji as a symbol of strength, resilience, and cosmic harmony. Just as Mount Fuji stands as a majestic and unyielding symbol of endurance, Green Lantern’s power ring draws from the willpower and determination of its wielder, using the energy of the universe to overcome challenges and protect balance—mirroring the way Mount Fuji is a revered symbol of natures power and eternal presence in Japanese culture.",
             "dateBuilt": "Pleistocene Epoch(100,000 years ago)"
         },
         {
-            "imgPath": "img/places/img/Flash at Formula1.jpeg",
+            "imgPath": "img/Flash at Formula1.jpeg",
             "imgLocation": "Formula 1 Grand Prix Circuit",
             "description": "The Flash represents Formula 1 racing as a symbol of speed, precision, and relentless pursuit of excellence. Just as Formula 1 drivers push their cars to the limit, navigating tight corners and high-speed straights with exact precision, The Flash uses his superhuman speed and reflexes to outpace any obstacle, always staying one step ahead. Both embody the thrill of speed and the mastery of control in high-pressure environments, constantly striving for perfection and breaking records along the way.",
             "dateBuilt": "1906"
         },
         {
-            "imgPath": "img/places/img/DoctorStrange_MachuPichu.jpeg",
+            "imgPath": "img/DoctorStrange_MachuPichu.jpeg",
             "imgLocation": "Machu Pichu",
             "description": "Doctor Strange represents Machu Picchu as a symbol of mysticism, ancient knowledge, and spiritual significance. Just as Machu Picchu, an ancient Incan city hidden in the mountains, holds secrets of a lost civilization and deep connection to the cosmos, Doctor Strange is the guardian of arcane secrets, drawing from ancient mystical knowledge and magical forces to protect the world from unseen threats. Both are places of profound mystery and wisdom, where the pasts secrets hold the key to understanding the present and the future.",
             "dateBuilt": "15th century"
         },
         {
-            "imgPath": "img/places/korea.jpg",
+            "imgPath": "img/korea.jpg",
             "imgLocation": "South Korea",
             "description": "Seoul",
             "dateBuilt": "01/09/2016"
         },
         {
-            "imgPath": "img/places/img/BlackPantherInColleseum.jpeg",
+            "imgPath": "img/BlackPantherInColleseum.jpeg",
             "imgLocation": "Roman Colleseum",
             "description": "Black Panther represents the Roman Colosseum as a symbol of strength, resilience, and legacy. Just as the Colosseum was a grand arena where gladiators fought to prove their prowess, Black Panther, as the protector of Wakanda, embodies the warrior spirit, defending his people with honor and courage. Both the Colosseum and Black Panther stand as enduring symbols of power and endurance, with the Colosseum’s history of survival through time reflecting TChallas own journey of growth, leadership, and overcoming challenges to protect his kingdom and uphold his legacy.",
             "dateBuilt": "70AD- 80AD"
         },
         {
-            "imgPath": "img/places/img/BatMan infront of TajMahal.jpeg",
+            "imgPath": "img/BatMan infront of TajMahal.jpeg",
             "imgLocation": "Taj Mahal",
             "description": "Batman represents the Taj Mahal as a symbol of strength, sacrifice, and legacy. Just as the Taj Mahal stands as a monument to enduring love and the memory of a great sacrifice, Batman embodies the sacrifice of his own happiness for the protection of Gotham City. The Taj Mahal was built as a testament to Emperor Shah Jahans love for his wife, and similarly, Batmans dedication to justice and the protection of Gotham represents a sacrifice—he gives up his personal life to ensure the safety of his city. Both Batman and the Taj Mahal are lasting symbols of resilience and commitment to something greater than themselves, standing the test of time.",
             "dateBuilt": "1632-1653"
