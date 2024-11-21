@@ -47,12 +47,7 @@
             "description": "Doctor Strange represents Machu Picchu as a symbol of mysticism, ancient knowledge, and spiritual significance. Just as Machu Picchu, an ancient Incan city hidden in the mountains, holds secrets of a lost civilization and deep connection to the cosmos, Doctor Strange is the guardian of arcane secrets, drawing from ancient mystical knowledge and magical forces to protect the world from unseen threats. Both are places of profound mystery and wisdom, where the pasts secrets hold the key to understanding the present and the future.",
             "dateBuilt": "15th century"
         },
-        {
-            "imgPath": "img/korea.jpg",
-            "imgLocation": "South Korea",
-            "description": "Seoul",
-            "dateBuilt": "01/09/2016"
-        },
+      
         {
             "imgPath": "img/BlackPantherInColleseum.jpeg",
             "imgLocation": "Roman Colleseum",
