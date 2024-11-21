@@ -53,7 +53,7 @@ function swapPhoto() {
   // Update the #photo element's src attribute with the current image's path
   $("#photo").attr("src", images.imgPath);
   // Update the .location, .description, and .date elements with the current image's details
-  $('.imgLocation').text(`The location ${images.imgLocation}`)
+  $('.imgLocation').text(`The location:  ${images.imgLocation}`)
 
   $('.description').text(`The description of places representing different characters: ${images.description}`)
 
@@ -88,9 +88,10 @@ function showPrevPhoto() {
   swapPhoto()
 }
 
-// Starter code for the timer function
-function startTimer () {
+let timer
+function startTimer() {
   // Create a timer to automatically call `showNextPhoto()` every mWaitTime milliseconds
+  timer = setInterval(showNextPhoto, mWaitTime);
   // Consider using setInterval to achieve this functionality
   // Hint: Make sure only one timer runs at a time
 }
